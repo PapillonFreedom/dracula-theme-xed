@@ -2,7 +2,7 @@
 <style-scheme id="dracula" name="Dracula" version="1.0">
 
   <author>Dracula Theme</author>
-  <description>Official Dracula color theme for Xed</description>
+  <description>UnOfficial Dracula color theme for Xed</description>
 
   <!-- ============== Palette Dracula ============== -->
   <color name="background"    value="#282A36"/>
